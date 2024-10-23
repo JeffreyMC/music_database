@@ -17,4 +17,4 @@ In this app you can save artist and album's names. You can list all the albums b
 ## Software used
 * Debian 12
 * IntelliJ Idea 2024.2.1
-* pgAdemin 4 version 8.2
+* pgAdmin 4 version 8.2
