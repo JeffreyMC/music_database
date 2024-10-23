@@ -10,7 +10,7 @@ In this app you can save artist and album's names. You can list all the albums b
 * Postgres as DBMS.
 
 ## What you can do
-* Save album (you will asked: artist name, album name, number of songs and release year)
+* Save album (you will be asked: artist name, album name, number of songs and release year)
 * List all albums by artist
 * List all artists
 
